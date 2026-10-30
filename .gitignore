@@ -1,0 +1,7 @@
+# gnome-theme：安装前备份与本机生成物
+gnome-theme/backup/
+*.dconf
+
+# 通用
+.DS_Store
+*.log
