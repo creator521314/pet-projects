@@ -1,0 +1,13 @@
+# luna_pinyin_simp.custom.yaml —— 由 rime-wizard.py 生成
+# 生成时间: 2026-11-02 22:08:36
+patch:
+  "speller/algebra/+":
+    - derive/^([zcs])h/$1/
+    - derive/^([zcs])([^h])/$1h$2/
+    - derive/^n/l/
+    - derive/^l/n/
+    - derive/([ei])n$/$1ng/
+    - derive/([ei])ng$/$1n/
+    - derive/([a])n$/$1ng/
+    - derive/([a])ng$/$1n/
+  "translator/enable_user_dict": true

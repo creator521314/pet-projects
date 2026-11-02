@@ -5,6 +5,7 @@
 | 项目 | 一句话 | 入口 |
 | --- | --- | --- |
 | [gnome-theme](gnome-theme/) | Arctic Ink —— Arch Linux + GNOME 51 的冷调深色桌面方案 | [install.sh](gnome-theme/install.sh) · [README](gnome-theme/README.md) |
+| [ibus-rime](ibus-rime/) | Arch + GNOME Wayland 下把输入法换成 Rime：切换脚本、配置向导与配置快照 | [switch-ime-rime.sh](ibus-rime/switch-ime-rime.sh) · [README](ibus-rime/README.md) |
 
 ## 约定
 

@@ -1,0 +1,7 @@
+# 由 rime-wizard.py 生成，改完记得部署（rime_deployer / 右键「部署」）
+# 生成时间: 2026-11-02 22:08:36
+patch:
+  schema_list:
+    - schema: luna_pinyin_simp
+  menu/page_size: 7
+  style/horizontal: true
